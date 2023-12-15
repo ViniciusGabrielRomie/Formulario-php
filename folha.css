@@ -1,0 +1,14 @@
+html body {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/564x/db/df/ef/dbdfef585fb2b33ac8d04890a57d212b.jpg');
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
